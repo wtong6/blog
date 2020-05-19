@@ -1,0 +1,4 @@
+2020-05-16 15:29:31.664  INFO 8420 --- [restartedMain] com.lz.BlogApplication                   : Starting BlogApplication on WINDOWS-JM5NDCM with PID 8420 (F:\新建文件夹\blog-master\target\classes started by Administrator in F:\新建文件夹\blog-master)
+2020-05-16 15:29:31.679  INFO 8420 --- [restartedMain] com.lz.BlogApplication                   : The following profiles are active: dev
+2020-05-16 15:29:31.773  INFO 8420 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-05-16 15:29:31.773  INFO 8420 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
